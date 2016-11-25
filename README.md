@@ -11,7 +11,10 @@ npm run server
 
 ## Use it
 
-
+```
+API_KEY=xxxx API_SECRET=xxxx npm run server
+curl localhost:8080/send/YOUR_PHONE_NUMBER
+```
 
 ## To-do
 
